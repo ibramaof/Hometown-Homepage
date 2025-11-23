@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.hero {
+    background-image: url("images/dmitrii-zhodzishskii-4rXHE9XeW_A-unsplash\ \(1\).jpg");
+    background-size: 100% 100%;
+
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 0px;
+
+
+
+
+}
+
+#hero-text1 {
+    color: aliceblue;
+    background-color: #251F47;
+    margin: 10px auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+
+
+}
+
+#hero-text2 {
+    color: aliceblue;
+    background-color: #404E7C;
+    margin: 0 auto;
+    padding: 5px 10px;
+    border-radius: 10px
+}
+
+.act-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#whatever {
+    background-color: #E8DAB2;
+    margin-top: -50px;
+}
+
+#whatever-h3 {
+    padding: 40px;
+}
+
+.activities {
+    display: flex;
+    justify-content: space-around;
+}
+
+.act-div {
+    width: 200px;
+    padding: 20px;
+
+}
+
+#guide {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+    background-color: #C0D6DF;
+    border-bottom: 5px solid #1D3557;
+}
+
+#guide-img {
+    width: 180px;
+    height: 200px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 0 13px;
+}
+
+#text {
+    margin: auto;
+    padding-right: 13px;
+}
